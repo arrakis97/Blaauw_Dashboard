@@ -1,3 +1,5 @@
+#!/Users/heinejan/opt/anaconda3/bin/python
+
 import panel as pn
 pn.extension('tabulator', sizing_mode='stretch_width', notifications=True)
 from panel.io.notifications import NotificationArea
