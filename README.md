@@ -5,3 +5,4 @@ The dashboard interacts with the database of the Blaauw Observatory Archive, whi
 It generates queries based on the user input and then presents the information to the user in tabular form.
 From this table, users can see all kinds of information about each entry, such as filter, coordinates and observation date.
 These entries can be selected and then viewed, which allows for a quick and easy inspection of the observation data.
+I used local data, because I haven't yet been able to allow for remote access to the archive.
